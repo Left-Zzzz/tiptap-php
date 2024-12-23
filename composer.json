@@ -1,12 +1,12 @@
 {
-    "name": "ueberdosis/tiptap-php",
+    "name": "left-zzzz/tiptap-php",
     "description": "A PHP package to work with Tiptap output",
     "keywords": [
         "ueberdosis",
         "tiptap",
         "prosemirror"
     ],
-    "homepage": "https://github.com/ueberdosis/tiptap-php",
+    "homepage": "https://github.com/Left-Zzzz/tiptap-php",
     "license": "MIT",
     "authors": [
         {
